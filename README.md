@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pranay12111&label=Profile%20views&color=0e75b6&style=flat" alt="Pranay12111" /> </p>
 
-<p align="left"> <a href="(https://x.com/PranayLautkar)" target="blank"><img src="https://img.shields.io/https://x.com/PranayLautkar?logo=twitter&style=for-the-badge" alt="PranayLautkar" /></a> </p>
+<p align="left"> <a href="(https://x.com/PranayLautkar)" target="blank"><img src="https://img.shields.io/x.com/PranayLautkar?logo=twitter&style=for-the-badge" alt="PranayLautkar" /></a> </p>
 
 - 🔭 I’m currently working on **Movie Recommender System**
 
